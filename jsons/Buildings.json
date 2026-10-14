@@ -7,13 +7,13 @@
 		"maintenance": 0,
 		"uniques": [ "Automatically built in all cities where it is buildable",
 		    "Limited to [1] per Civilization",
-	            "[-50]% Production when constructing [All] wonders [in all cities] <for [AI player Civilizations]>",
-                    "[-20]% [Faith] [in all cities] <for [AI player Civilizations]>",
-                    "[-20]% [Culture] [in all cities] <for [AI player Civilizations]>",
-		    "[-50]% [Science] [in all cities] <for [AI player Civilizations]>",
-	            "[-30]% [Production] [in all cities] <when at war> <for [AI player Civilizations]>", 
-	            "[-20]% [Food] [in all cities] <for [AI player Civilizations]>",
-		    "[-20]% [Gold] [in all cities] <for [AI player Civilizations]>"]
+	            "[-50]% Production when constructing [All] wonders [in all cities] <for [AI player] Civilizations>",
+                    "[-20]% [Faith] [in all cities] <for [AI player] Civilizations>",
+                    "[-20]% [Culture] [in all cities] <for [AI player] Civilizations>",
+		    "[-50]% [Science] [in all cities] <for [AI player] Civilizations>",
+	            "[-30]% [Production] [in all cities] <when at war> <for [AI player] Civilizations>", 
+	            "[-20]% [Food] [in all cities] <for [AI player] Civilizations>",
+		    "[-20]% [Gold] [in all cities] <for [AI player] Civilizations>"]
 			
 		    "requiredTech": "Agriculture"
 	},
